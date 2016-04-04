@@ -1,0 +1,8 @@
+.fixed-top{
+    position: fixed;
+    top: 0;
+}
+
+.nav-bar li{
+    color: blue;
+}
